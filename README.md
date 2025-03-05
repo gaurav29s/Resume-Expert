@@ -10,13 +10,6 @@ Resume Analyzer is an intelligent system that analyzes resumes for keyword match
 - **Resume Parsing**: Extracts and structures information from resumes.
 - **User-friendly Interface**: Allows recruiters to upload and analyze resumes efficiently.
 
-## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript (React.js)
-- **Backend**: Python (Flask/Django)
-- **Database**: MySQL
-- **Machine Learning**: NLP (Natural Language Processing) using NLTK, spaCy, or similar libraries
-- **File Handling**: PDF and DOCX resume parsing with libraries like `pdfplumber` and `python-docx`
-
 ## Installation
 1. Clone the repository:
    ```bash
